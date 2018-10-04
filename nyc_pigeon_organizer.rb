@@ -13,27 +13,27 @@ pigeon_list = {
   "Lucky" => {
     :color => ["purple"],
     :gender => ["male"],
-    :lives => ["Central Park"]
+    :lives => ["Central Park"],
   },
   "Ms. K" => {
     :color => ["grey", "white"],
     :gender => ["female"],
-    :lives => ["Central Park"]
+    :lives => ["Central Park"],
   },
   "Queenie" = {
     :color => ["white", "brown"],
     :gender => ["female"],
-    :lives => ["Subway"]
+    :lives => ["Subway"],
   },
   "Andrew" = {
     :color => ["white"],
     :gender => ["male"],
-    :lives => ["City Hall"]
+    :lives => ["City Hall"],
   },
   "Alex" => {
     :color => ["white", "brown"],
     :gender => ["male"],
-    :lives => ["Central Park"]
-  }
+    :lives => ["Central Park"],
+  },
 }
 end
