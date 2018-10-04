@@ -5,7 +5,7 @@ pigeon_list = {
     :gender => ["male"],
     :lives => ["Subway"]
   },
-  "Peter Jr." =>
+  "Peter Jr." => {
   :color => ["purple", "grey"],
   :gender => ["male"],
   :lives => ["Library"],
