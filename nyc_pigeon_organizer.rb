@@ -20,12 +20,12 @@ pigeon_list = {
     :gender => ["female"],
     :lives => ["Central Park"],
   },
-  "Queenie" = {
+  "Queenie" => {
     :color => ["white", "brown"],
     :gender => ["female"],
     :lives => ["Subway"],
   },
-  "Andrew" = {
+  "Andrew" => {
     :color => ["white"],
     :gender => ["male"],
     :lives => ["City Hall"],
