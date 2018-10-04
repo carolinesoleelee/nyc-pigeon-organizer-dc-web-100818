@@ -1,5 +1,8 @@
 def nyc_pigeon_organizer(data)
- data.class do |x|
-   x
+ :names => {
+   Theo,
+   Peter Jr,
+   Lucky, 
+ }
 end
 end
