@@ -2,7 +2,6 @@ def nyc_pigeon_organizer(data)
  :names => {
    Theo,
    Peter Jr,
-   Lucky, 
+   Lucky,
  }
-end
 end
