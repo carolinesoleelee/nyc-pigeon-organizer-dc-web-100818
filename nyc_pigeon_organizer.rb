@@ -12,9 +12,9 @@ pigeon_list = {
   },
   "Lucky" => {
     :color => ["purple"],
-    :gender => ["female"],
+    :gender => ["male"],
     :lives => ["Central Park"]
   },
-  
+
 }
 end
